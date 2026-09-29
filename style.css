@@ -84,3 +84,4 @@ button{touch-action:manipulation}
 /* Flat welcome background: no decorative circles. */
 .welcome{background:#fff8fc}
 .welcome:before,.welcome:after{content:none!important;display:none!important}
+.compose-preview{font-size:11px;color:#9b819a;margin:7px 0 0}.compose-preview summary{cursor:pointer;display:inline-block;padding:6px 4px;min-height:32px;touch-action:manipulation}.compose-preview[open]{margin-bottom:8px}.compose-preview-body{max-height:130px;overflow:auto;background:#fff;border:1px solid #eddfef;border-radius:9px;padding:10px 12px;color:#51465a;font-size:13px;line-height:1.6;overflow-wrap:anywhere}.compose-preview-body p{margin:0 0 8px}.compose-preview-body p:last-child{margin-bottom:0}.format-tools button:disabled{opacity:.45;cursor:not-allowed}@media(max-width:800px){.compose-preview summary{min-height:40px;display:flex;align-items:center}.compose-preview-body{max-height:100px;font-size:14px}}
