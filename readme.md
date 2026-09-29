@@ -1,1 +1,1 @@
-# não utilizar sem a devida autorização.
+favor, não utilizar sem a devida autorização.
